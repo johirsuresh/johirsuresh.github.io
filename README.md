@@ -1,16 +1,16 @@
-# Personal website
+# Johir Suresh - Personal Website
 
-Static multi-page personal website for GitHub Pages.
+[visit my website](https://johirsuresh.github.io/)
 
-## Pages
+## About
 
-- Home: `index.html`
-- Education: `education.html`
-- Projects: `projects.html`
-- Volunteering: `volunteering.html`
-- Work experience: `experience.html`
-- Publications: `publications.html`
-- In the news: `news.html`
+Hi, I’m Johir Suresh — a race car driver pursuing a Ph.D. in autonomous vehicles. I specialize in advanced controls, estimation, and vehicle dynamics. My research focuses on helping machines understand motion and make better decisions, especially in uncertain off-road environments.
 
-Shared styles live in `assets/css/styles.css`. Replace the placeholder copy, links, and contact details as content is added.
-# johirsuresh.github.io
+When I’m not working on autonomous vehicles, I enjoy racing, driving on mountain roads, cooking, and photography.
+
+## Links
+
+- [LinkedIn](https://www.linkedin.com/in/johir-suresh)
+- [GitHub](https://github.com/johirsuresh)
+- [Email](mailto:jsuresh@clemson.edu)
+- [Google Scholar](https://scholar.google.com/citations?user=LcLGrAgAAAAJ&hl=en)
