@@ -62,8 +62,11 @@ h3 { font-size: 1.3rem; line-height: 1.2; margin-bottom: 9px; }
 .card .meta, .meta { color: var(--muted); font: .75rem 'DM Mono', monospace; }
 .page-intro { padding: 90px 0 70px; max-width: 750px; }
 .experience-intro { display: grid; grid-template-columns: minmax(0, 750px) 260px; align-items: center; gap: clamp(36px, 8vw, 80px); max-width: 1090px; }
+.volunteering-intro { display: grid; grid-template-columns: minmax(0, 750px) 260px; align-items: center; gap: clamp(36px, 8vw, 80px); max-width: 1090px; }
 .experience-intro-copy { min-width: 0; }
+.volunteering-intro-copy { min-width: 0; }
 .experience-intro-image { width: 260px; height: 320px; }
+.volunteering-intro-image { width: 260px; height: 320px; }
 .education-intro { padding-bottom: 24px; }
 .page-intro h1 { font-size: clamp(3.2rem, 7vw, 6.4rem); }
 .timeline { display: grid; gap: 0; }
@@ -86,6 +89,8 @@ h3 { font-size: 1.3rem; line-height: 1.2; margin-bottom: 9px; }
   .hero-image { max-width: 520px; width: 100%; }
   .experience-intro { grid-template-columns: 1fr; gap: 42px; }
   .experience-intro-image { width: min(100%, 520px); height: auto; }
+  .volunteering-intro { grid-template-columns: 1fr; gap: 42px; }
+  .volunteering-intro-image { width: min(100%, 520px); height: auto; }
   .grid { grid-template-columns: 1fr; }
   .timeline-item { grid-template-columns: 1fr; gap: 8px; }
   .news-entry { grid-template-columns: 1fr; gap: 18px; }
